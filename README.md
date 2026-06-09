@@ -1,6 +1,6 @@
 # 🦆 Produck
 
-https://www.star-history.com/?repos=YuvBindal%2Fproduck-oss&type=date&legend=top-left
+![Star History Chart](https://api.star-history.com/svg?repos=YuvBindal%2Fproduck-oss&type=timeline&legend=top-left)
 
 **Your users talk. Your fixes ship.**
 
